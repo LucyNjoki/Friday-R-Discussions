@@ -10,19 +10,17 @@
 
 # Data Types
 
-- R has 6 data types namely: 
+- character
 
-> character
+- numeric
 
-> numeric
+- logical
 
-> logical
+- integer
 
-> integer
+- complex
 
-> complex
-
-> raw
+- raw
 
 # Data Structures
 
