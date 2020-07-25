@@ -22,7 +22,7 @@
 
 - Easiest way: ```install.packages("tidyverse")```
 
-- or: ```install.packages("tibble)```
+- or: ```install.packages("tibble")```
 
 # Installing Packages
 
