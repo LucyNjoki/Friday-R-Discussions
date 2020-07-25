@@ -14,9 +14,9 @@ I facilitate a group discussion on R every Friday afternoon.
 
 5. Basic operations and functions on datasets -
  
- > +,/,-,*,
+ ``` +,/,-,*,```
 
-> mean(), sd(), var(), median(), quantiles(), max(),min(), exp(), log(), sqrt() & summary()
+```mean()```, ```sd()```, ```var()```, ```median()```, ```quantiles()```, ```max()```,```min()```, ```exp()```, ```log()```, ```sqrt()``` & ```summary()```
 
 6. Installing Packages - CRAN and GitHub
 
